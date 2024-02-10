@@ -1,2 +1,2 @@
 # work
-portfolio based on my current workplace
+Portfolio based on data analysis projects from my current workplace.
